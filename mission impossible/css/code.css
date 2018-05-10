@@ -1,0 +1,75 @@
+html, body {
+  background-color: #7D7C7F;
+
+}
+
+#num1 {
+  position: relative;
+}
+#num1 div {
+  position: absolute;
+  bottom: 507px;
+  left: 142px;
+}
+
+
+#num2 {
+  position: relative;
+}
+#num2 div {
+  position: absolute;
+  bottom: 507px;
+  left: 213px;
+}
+
+#num3 {
+  position: relative;
+}
+#num3 div {
+  position: absolute;
+  bottom: 507px;
+  left: 283px;
+}
+
+#title {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 20px;
+} 
+
+.jumbotron {
+  background: url("../images/pin.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: 3px solid #E8CC6C;
+  width: 525px;
+  height: 90px;
+  margin: 0 auto;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  padding: 0;
+}
+
+#bodyContainer {
+  background-color: #C5D5DE;
+  border-radius: 10px;
+  width: 500px;
+  margin-top: -5px;
+  margin-bottom: 35px;
+}
+
+.briefCase img {
+  margin-top: 15px;
+}
+
+#myBtn1 {
+  margin-right: 5px;
+}
+
+.myBtn {
+  margin-top: 15px;
+  margin-bottom: -5px;
+}
+
+
