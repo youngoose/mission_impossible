@@ -136,10 +136,6 @@
           <h1><?php echo $congrats ?></h1>
         </form>
 
-	      <h4>The first combination is: <?php echo $_SESSION['combination1'] ?></h4>
-	      <h4>The second combination is: <?php echo $_SESSION['combination2'] ?></h4>
-	      <h4>The third combination is: <?php echo $_SESSION['combination3'] ?></h4>
-
         <h4><?php echo "#1: " . $result1 ?></h4>
         <h4><?php echo "#2: " . $result2 ?></h4>
         <h4><?php echo "#3: " . $result3 ?></h4>
